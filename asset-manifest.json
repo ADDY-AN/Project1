@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.c9b64e9a.css",
-    "main.js": "/static/js/main.7fcdcab8.js",
-    "static/media/blog05.png": "/static/media/blog05.cf8f8e019e418ef1f8e8.png",
-    "static/media/blog01.png": "/static/media/blog01.c37644dd65ff642e24a0.png",
-    "static/media/blog04.png": "/static/media/blog04.0076abae715c03685ce8.png",
-    "static/media/ai.png": "/static/media/ai.b3c37bf3171d88505837.png",
-    "static/media/blog03.png": "/static/media/blog03.c4898b11cb5dd5a101df.png",
-    "static/media/blog02.png": "/static/media/blog02.332ec1042a45d5e37d94.png",
-    "static/media/possibility.png": "/static/media/possibility.3963ae1295260dfaad76.png",
-    "static/media/people.png": "/static/media/people.5cd2d6fbcd48bd63f106.png",
-    "static/media/logo.svg": "/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
-    "index.html": "/index.html",
-    "main.c9b64e9a.css.map": "/static/css/main.c9b64e9a.css.map",
-    "main.7fcdcab8.js.map": "/static/js/main.7fcdcab8.js.map"
+    "main.css": "/project1/static/css/main.c9b64e9a.css",
+    "main.js": "/project1/static/js/main.a86ec044.js",
+    "static/media/blog05.png": "/project1/static/media/blog05.cf8f8e019e418ef1f8e8.png",
+    "static/media/blog01.png": "/project1/static/media/blog01.c37644dd65ff642e24a0.png",
+    "static/media/blog04.png": "/project1/static/media/blog04.0076abae715c03685ce8.png",
+    "static/media/ai.png": "/project1/static/media/ai.b3c37bf3171d88505837.png",
+    "static/media/blog03.png": "/project1/static/media/blog03.c4898b11cb5dd5a101df.png",
+    "static/media/blog02.png": "/project1/static/media/blog02.332ec1042a45d5e37d94.png",
+    "static/media/possibility.png": "/project1/static/media/possibility.3963ae1295260dfaad76.png",
+    "static/media/people.png": "/project1/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/project1/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
+    "index.html": "/project1/index.html",
+    "main.c9b64e9a.css.map": "/project1/static/css/main.c9b64e9a.css.map",
+    "main.a86ec044.js.map": "/project1/static/js/main.a86ec044.js.map"
   },
   "entrypoints": [
     "static/css/main.c9b64e9a.css",
-    "static/js/main.7fcdcab8.js"
+    "static/js/main.a86ec044.js"
   ]
 }
